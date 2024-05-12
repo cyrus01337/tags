@@ -1,5 +1,5 @@
 Tag Name: Pass by Value vs Pass by Reference\
-Tag Command: pass-by-value-vs-reference 
+Tag Command: value-vs-reference
 
 Variables can be passed by value or by reference depending on their data type. 
 * Pass by value:
