@@ -3,5 +3,4 @@
 - If you prefer to experiment, check [Roblox DevForum](https://devforum.roblox.com) or the **Toolbox** for pre-existing scripts.
 
 > Be sure to ask for code reviews when learning from old methods.
-> **It is always better to practice the content you have learnt, to ensure you remember
-> everything.**
+> **It is always better to practice the content you have learnt, to ensure you remember everything.**
