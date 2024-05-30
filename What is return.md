@@ -6,14 +6,12 @@ Picture a waiter asking to take down your order. The waiter's job is to relay th
 ```lua
 -- You tell the waiter what you want by calling the function with specific instructions.
 local function add(x, y)
-  -- 'add' receives your 'order' (x and y).
+    -- 'add' receives your 'order' (x and y).
 
-  -- After your meal is prepared, the waiter brings it back to you. This is what the return keyword does in a function.
-  return x + y -- returns the sum of x and y 
+    -- After your meal is prepared, the waiter brings it back to you. This is what the return keyword does in a function.
+    return x + y -- returns the sum of x and y 
 end
 
 local sum = add(5, 3)
 print(sum)  -- Outputs: 8
 ```
-
-Detailed Explanation [here](https://discord.com/channels/211228845771063296/1138164798652166264/1141290089004138556)
