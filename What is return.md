@@ -1,7 +1,4 @@
-### Tag Name: What is return?
-### Tag Command: return
-
-Picture a waiter asking to take down your order. The waiter's job is to relay that information to the kitchen who will produce the meal and have it brought to your table. 
+Picture a waiter asking to take down your order. The waiter's job is to relay that information to the kitchen who will produce the meal and have it brought to your table.
 
 ```lua
 -- You tell the waiter what you want by calling the function with specific instructions.
