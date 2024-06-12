@@ -1,5 +1,5 @@
 **Before you ask a question, please do these things:**
-- Post the code
+- Post relevant snippets of your code
 - Give the error or let us know that there isn't one
 - Explain what the code isn't doing
 - Explain what the code should be doing
