@@ -1,3 +1,5 @@
+#tag
+
 Latency is how long something takes to happen, and is normally shown when measuring ping. When doing something, low latency means it will start faster, while high latency means it will start later.
 
 You can reduce latency by moving/(sometimes) duplicating server logic to the client and having 2 versions:

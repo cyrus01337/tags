@@ -1,3 +1,5 @@
+#tag
+
 Since the new metamethod `__iter` was added to every table, all tables can be used as the iterator within for loops, making `pairs` and `ipairs` redundant.
 
 Here's an example:

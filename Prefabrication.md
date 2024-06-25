@@ -1,3 +1,5 @@
+#tag
+
 Prefabrication is the idea of creating a template for something (i.e leaderstats) in studio. You can then clone it, make whatever changes necessary (i.e loading player data), then use it for whatever you need.
 
 The benefits for doing this:

@@ -1,3 +1,5 @@
+#tag
+
 When your game is constantly consuming an ever-growing amount of memory, it is possible that you have a memory leak, which can be difficult to find and debug.
 
 Some things to keep in mind are:

@@ -1,3 +1,5 @@
+#tag
+
 Module scripts (or modules) normally contain code that does not run until they have been `require`d. The code you write will run under the same restrictions as the type of script requiring it, meaning:
 - Modules required by local scripts will run their code as if it were a local script
 - Modules required by server scripts will run their code as if it were a server script

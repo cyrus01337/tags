@@ -1,3 +1,5 @@
+#tag
+
 Using classes with metatables ends up being problematic for several reasons:
 - No standard way to define a class
 - Lack of support due to complexity of metatables

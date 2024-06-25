@@ -1,3 +1,5 @@
+#tag
+
 - `workspace:FindPartsInRegion3()` (24th August 2024) - [Spatial Query](<https://devforum.roblox.com/t/introducing-overlapparams-new-spatial-query-api/1435720>)
 - [`spawn()`, `delay()` and `wait()`](<https://devforum.roblox.com/t/task-library-now-available/1387845>) (2nd August 2021) - [`task.wait()`](<https://create.roblox.com/docs/reference/engine/libraries/task#wait>)
 - [`Humanoid:LoadAnimation()`](<https://devforum.roblox.com/t/deprecating-loadanimation-on-humanoid-and-animationcontroller/857129>) (6th November 2020) - [`Animator:LoadAnimation()`](<https://create.roblox.com/docs/reference/engine/classes/Animator#LoadAnimation>) with [tutorial](<https://create.roblox.com/docs/animation/using>)

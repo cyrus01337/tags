@@ -1,3 +1,5 @@
+#tag
+
 Variables can be passed by value or by reference depending on their data type.
 * Pass by value:
   - Numbers and other primitive data types are passed by value. When you assign a number to another variable or pass it to a function, a copy of the value is created. Any changes made to the copy do not affect the original value.

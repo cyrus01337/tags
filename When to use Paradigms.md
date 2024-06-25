@@ -1,3 +1,5 @@
+#tag
+
 Programming paradigms, like OOP and ECS, are a choice in designing a feature or system. Just because you didn't use/pay attention to paradigms when working on your project ***does not*** mean you are behind.
 
 A common mistake for game developers is focusing on using paradigms the moment they find out about them *while* they are in the middle of developing a feature or system. This slows down development considerably and can causes bad system design 9/10 times.
